@@ -58,5 +58,6 @@ while escolha == 1:
         print("\n\nDigite 1 para continuar")
         print("Digite 0 para sair")
         escolha = int(input(""))
-        os.system('cls' if os.name == 'nt' else 'clear')
+       
+
 
